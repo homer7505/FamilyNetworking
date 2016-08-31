@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity
     private WebView contentWebView;
     private CustomWebChromeClient webChromeClient;
 
-    public static final String URL = "https://family-networking.de";
+    public static final String URL = "";
 
     public MainActivity()
     {

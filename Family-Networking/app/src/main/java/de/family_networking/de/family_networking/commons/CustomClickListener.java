@@ -3,6 +3,7 @@ package de.family_networking.de.family_networking.commons;
 import android.view.View;
 import android.webkit.WebView;
 
+import de.family_networking.MainActivity;
 import de.family_networking.R;
 
 /**
@@ -33,7 +34,7 @@ public class CustomClickListener implements View.OnClickListener
             }
 
             mbReloadPressed = true;
-            this.contentWebView.loadUrl("https://family-networking.de");
+            this.contentWebView.loadUrl(MainActivity.URL);
             this.customWebViewClient.resetMbErrorOccured();
         }
     }
