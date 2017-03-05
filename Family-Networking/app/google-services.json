@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710161587271",
+    "firebase_url": "https://family-networking.firebaseio.com",
+    "project_id": "family-networking",
+    "storage_bucket": "family-networking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710161587271:android:b67929ce82b9681a",
+        "android_client_info": {
+          "package_name": "de.family_networking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710161587271-20484murraka5jip357pn7ma66023uk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAucgldVHkJIK0nWPqsKMlzd74EnMD9wz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
