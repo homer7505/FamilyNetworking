@@ -3,336 +3,21 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="130c7039e23ae8c4f7a9f64724b070a2e4d2af16">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be438c44f4a984704b44fbe937865d4e632ba620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="a76a6983a23788b3689524d4bed763955afbd306">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_190acd68d07ef6d8b72de6be61875a8ed72cb33d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="33a04b999488643d5a45f8d61ee65ff48e5f1d30">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be438c44f4a984704b44fbe937865d4e632ba620\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_7480860b6f1223424984b702973257a170ae2c3f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_56ec1a0f2b6cb533b074be90b14b53f311609289\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_ad97ddea39d57b73544b58c5e10d202a2b791f51\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3b23054216ec4907a9f184ca6d8b85f5eb28fcfd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_23e9683f41a0cce0568953047e90230035b86044\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_95e4d2f8e093da5e539d2a43369a293e7739878f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_a818390207fb54a95e939a89e108b098c9a5fcdb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a174a0c837ca445e2c749d727c63dc2864692f65\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_78eb63451346486391e0178fc289becce93ed12d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_b3df72afe0525c1a2966c25a8c54c5daad0910e8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_c8bc0c7bbaa9c878f874860a747ccc1621c5fc52\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_814b28d336e88b725f3b33955d269d10961d6706\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0f3acbecfd3533089e6cc8e18d9e9038ce49f4d6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_c3c39f2027056a1ac557512e3660cdf0cf0a0633\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_57b170297001c2bb589a06baa90674620c4964f0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_dfd82687c881cdcc66fd7057b0628a32b8298b1b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_57fee7130deb4a8fe7c503b2c5c22564a5c8bc21\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_08de993e304a75b8af1b75004275d975c8c56e57\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_e17d584622043905a4cc72180e7986a8e346fe99\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_69597fbdb655dcd5487def4b4927f18e7b6c3f82\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_5ff8f26201117463d69edc0c6608c7eba6bb2db3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_ea9f2c1a7ab4ea1b50c0ad79590134cd827e24a5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_ec9c5f60e4a2a3183b81e1b51b1e3c1f89784989\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_ee770cc65cc785e79862d81453ccd1196f0ffe86\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="0e6ecaea1e8dd0d0aaecd71034334ea288d2dfeb">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.onesignal-OneSignal-3.4.3_1aed948df8b47c37e3e8e38ab535cc47e913fc4b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4bdefac6b33a3ac33f6d32c7de41e1bd6ad95001\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_c3dfe85d2b3952acf4826c3d68d8161cf42130e5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_313a9dc1358941788ee64d1dae0ff4ff1a5dec32\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_33b86f2d7696948653b821e744701e428f781440\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_37c62135f7596996624711f0cb0e29b7bfb3f94b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_f5fd9b46b947dd7bf45b18ea3e9c128c354eb28d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_0a0a0ca94f35cf484107978ea90e331d1c6ac343\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_7a7e5996b17af94950ca112b43bb56daa6325655\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_8e0364c09baec398c856d4783ebf59c732cbe99a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_f841078ca62475eacc69a3de6c024b12d5a93dbb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -372,6 +57,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_7480860b6f1223424984b702973257a170ae2c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -399,6 +93,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_56ec1a0f2b6cb533b074be90b14b53f311609289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -408,12 +111,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_ad97ddea39d57b73544b58c5e10d202a2b791f51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_447b04fd81b58c4760465269ae18490df6e3aad2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3b23054216ec4907a9f184ca6d8b85f5eb28fcfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_23e9683f41a0cce0568953047e90230035b86044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_95e4d2f8e093da5e539d2a43369a293e7739878f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -435,6 +174,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_a818390207fb54a95e939a89e108b098c9a5fcdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a174a0c837ca445e2c749d727c63dc2864692f65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -450,6 +207,24 @@
         revision="24.0.0"
         sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_405a2636bfbd0740c76729191b68c85d567832f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_78eb63451346486391e0178fc289becce93ed12d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_b3df72afe0525c1a2966c25a8c54c5daad0910e8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -471,12 +246,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_c8bc0c7bbaa9c878f874860a747ccc1621c5fc52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_afde4f276b91194bc058b52574dcf1c0f34affcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_814b28d336e88b725f3b33955d269d10961d6706\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -489,12 +282,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0f3acbecfd3533089e6cc8e18d9e9038ce49f4d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_c3c39f2027056a1ac557512e3660cdf0cf0a0633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.1_c7ec3fcaa7177bd4cc3c14abcba499d180db72ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_57b170297001c2bb589a06baa90674620c4964f0\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -525,12 +345,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_dfd82687c881cdcc66fd7057b0628a32b8298b1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_57fee7130deb4a8fe7c503b2c5c22564a5c8bc21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_b26ac69a5b292116b9c55871f84b8cfbb44e5290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_08de993e304a75b8af1b75004275d975c8c56e57\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -543,12 +390,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_e17d584622043905a4cc72180e7986a8e346fe99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_69597fbdb655dcd5487def4b4927f18e7b6c3f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_5ff8f26201117463d69edc0c6608c7eba6bb2db3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_305326f4051ff43ca84a16044d6b98af5efcad2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_ea9f2c1a7ab4ea1b50c0ad79590134cd827e24a5\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -570,6 +453,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_ec9c5f60e4a2a3183b81e1b51b1e3c1f89784989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_ee770cc65cc785e79862d81453ccd1196f0ffe86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0e6ecaea1e8dd0d0aaecd71034334ea288d2dfeb">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.onesignal-OneSignal-3.4.3_1aed948df8b47c37e3e8e38ab535cc47e913fc4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -588,6 +498,42 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4bdefac6b33a3ac33f6d32c7de41e1bd6ad95001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_c3dfe85d2b3952acf4826c3d68d8161cf42130e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_313a9dc1358941788ee64d1dae0ff4ff1a5dec32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_33b86f2d7696948653b821e744701e428f781440\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -597,12 +543,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_37c62135f7596996624711f0cb0e29b7bfb3f94b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_f5fd9b46b947dd7bf45b18ea3e9c128c354eb28d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_0a0a0ca94f35cf484107978ea90e331d1c6ac343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="4a36600281a648769411ef642c331851732bf29e">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_012ef9ef021f99691fbb8a5dadfd2bdd52696efe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_7a7e5996b17af94950ca112b43bb56daa6325655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_8e0364c09baec398c856d4783ebf59c732cbe99a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -621,6 +612,15 @@
         revision="24.0.0"
         sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
         <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_17ffdd69fdea4ee8fdbeb17587bbc84db9a345e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Lars Nitzsche\AndroidStudioProjects\Family-Networking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_f841078ca62475eacc69a3de6c024b12d5a93dbb\classes.dex" />
     </item>
     <item
         is-multidex="true"

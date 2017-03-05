@@ -89,19 +89,35 @@ public class MainActivity extends AppCompatActivity
             {
                 current_url = current_url.substring(0, current_url.length() - 1);
             }
-            System.out.println(current_url + "  -  " + URL);
-            if(current_url.equals(URL))
+            if(current_url.equals(URL) && !onTouchListerener.isOnTouchDetected())
             {
                 this.finish();
             }
             else if(current_url.equals(URL + "/" + CustomOnTouchListener.PHOTO) || current_url.equals(URL + "/" + CustomOnTouchListener.NEWSFEED))
             {
-                onTouchListerener.resetCurrentMenuSite();
-                this.contentWebView.loadUrl( URL );
+                if(onTouchListerener.isOnTouchDetected())
+                {
+                    this.contentWebView.loadUrl(URL + "/" + onTouchListerener.getCurrentMenuSite());
+                }
+                else
+                {
+                    onTouchListerener.resetCurrentMenuSite();
+                    this.contentWebView.loadUrl(URL);
+                }
+                onTouchListerener.resetIsOnTouchDetected();
             }
             else
             {
-                this.contentWebView.loadUrl( URL + "/" + onTouchListerener.getCurrentMenuSite());
+                onTouchListerener.resetIsOnTouchDetected();
+                if(onTouchListerener.getCurrentMenuSite() != null)
+                {
+                    this.contentWebView.loadUrl(URL + "/" + onTouchListerener.getCurrentMenuSite());
+                }
+                else
+                {
+                    onTouchListerener.resetCurrentMenuSite();
+                    this.contentWebView.loadUrl( URL );
+                }
             }
         }
         else

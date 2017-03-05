@@ -26,9 +26,6 @@ public class JavaScriptInterface
             ow_userId = ow_userId.substring("\"userId\":".length(), ow_userId.indexOf(","));
             String os_userID = this.customIdsAvailableHandler.getUserId();
 
-            System.out.println("OW_UserId: "+ow_userId);
-            System.out.println("OS_UserId: "+ os_userID);
-
             if(os_userID != null)
             {
 
