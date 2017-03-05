@@ -8,7 +8,8 @@ android {
         applicationId "de.family_networking"
         minSdkVersion 19
         targetSdkVersion 24
-        versionCode 3
+        // TODO beide Versionsnummern vor dem Release anpassen !!!
+        versionCode 4
         versionName "1.3"
         manifestPlaceholders = [onesignal_app_id: "eff40d6c-8cd0-49cf-a5f1-095374a6441b",
                                 onesignal_google_project_number: "710161587271"]
